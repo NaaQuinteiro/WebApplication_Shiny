@@ -7,13 +7,8 @@ Este é um projeto de estudo para aplicar a biblioteca Shiny no desenvolvimento 
    ```bash
    git clone https://github.com/NaaQuinteiro/IntroducaoProgramacao_Aulas.git
    ```
-
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd \Trabalho3_WEBApplication
-   ```
-
-3. Crie o ambiente virtual:
+   
+2. Abra o terminal do vscode e crie o ambiente virtual:
    ```bash
    python -m venv venv
    ```
@@ -23,7 +18,7 @@ Este é um projeto de estudo para aplicar a biblioteca Shiny no desenvolvimento 
    ```
 5. Instale as dependencias:
    ```bash
-   pip install -r requirements.txta
+   pip install -r requirements.txt
    ```
 6. Rode o projeto:
    ```bash
