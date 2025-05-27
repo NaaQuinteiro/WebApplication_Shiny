@@ -1,6 +1,8 @@
 # Mercadinho UNASP em Shiny
 Este é um projeto de estudo para aplicar a biblioteca Shiny no desenvolvimento front-end de um mercadinho básico. 
 
+INTEGRANTES: Alejandra Michelle, Bruna Nunes, Thayná Quinteiro
+
 ## Instalação
 
 1. Clone o repositório:
